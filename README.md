@@ -1,1 +1,1 @@
-# programa-o-em-python-senai
+# programacao-em-python-senai
